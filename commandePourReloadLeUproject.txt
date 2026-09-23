@@ -1,0 +1,1 @@
+& "C:\Program Files (x86)\Epic Games\Launcher\Engine\Binaries\Win64\UnrealVersionSelector.exe" /projectfiles "C:\ecole\8PRO135 Programmation avec des moteurs de jeu\SpaceShooterTP1\SpaceShooterTP1.uproject"

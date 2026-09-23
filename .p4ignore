@@ -1,0 +1,16 @@
+.git/
+.vs/
+Binaries/
+DerivedDataCache/
+Intermediate/
+Saved/
+
+*.suo
+*.opensdf
+*.sdf
+*.VC.db
+*.VC.opendb
+*.sln
+*.slnx
+*.vsconfig
+UpgradeLog.htm
