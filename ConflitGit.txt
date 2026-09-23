@@ -1,1 +1,1 @@
-Version MAIN
+Conflit volontaire Git résolu
